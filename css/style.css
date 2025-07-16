@@ -44,8 +44,9 @@ fonts
 ------------------------------------------- */
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
 @font-face {
-  font-family: "clesmont";
-  src: url("../fonts/clesmont-clesmont-regular-400.ttf") format("truetype");
+  font-family: 'clesmont';
+  src: url('../fonts/Clesmont-Regular.woff2') format('woff2'),
+       url('../fonts/Clesmont-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }

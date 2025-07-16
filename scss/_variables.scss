@@ -3,15 +3,16 @@
 fonts
 
 ------------------------------------------- */
+
 @font-face {
     font-family: 'clesmont';
-    src: url('../fonts/clesmont-clesmont-regular-400.ttf') format('truetype');
+    src: url('../fonts/Clesmont-Regular.woff2') format('woff2'),
+         url('../fonts/Clesmont-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-}
-
-$font-1: 'clesmont',
-sans-serif;
+  }
+  
+$font-1: 'clesmont', sans-serif;
 
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
