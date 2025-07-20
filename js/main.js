@@ -132,7 +132,7 @@ document.addEventListener("DOMContentLoaded", function () {
        Typing Text
     ------------------------------------------- */
     const textElements = document.querySelectorAll(".mil-typing");
-    const strings = ["a Project Manager", "a Product Manager", "an Entrepreneur"];
+    const strings = ["a Product Manager", "a Project Manager", "an Entrepreneur"];
     const typeSpeed = 70;
     const backSpeed = 20;
     const backDelay = 1500;
