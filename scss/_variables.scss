@@ -7,7 +7,8 @@ fonts
 @font-face {
     font-family: 'clesmont';
     src: url('../fonts/Clesmont-Regular.woff2') format('woff2'),
-         url('../fonts/Clesmont-Regular.woff') format('woff');
+         url('../fonts/Clesmont-Regular.woff') format('woff'),
+         url('/fonts/clesmont-clesmont-regular-400.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
   }

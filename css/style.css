@@ -1788,11 +1788,11 @@ main menu
 .mil-main-menu ul li a:hover span {
   opacity: 1;
   -webkit-transform: translateX(3.5rem) scale(1);
-          transform: translateX(3.5rem) scale(1);
+          transform: translateX(4.65rem) scale(1);
   -webkit-filter: blur(0);
           filter: blur(0);
-  -webkit-transition-delay: 1s;
-          transition-delay: 1s;
+  -webkit-transition-delay: 0.3s;
+          transition-delay: 0.3s;
 }
 .mil-main-menu ul li.mil-current a span:after {
   content: "(current)";
